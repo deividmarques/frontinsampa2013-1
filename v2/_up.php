@@ -35,11 +35,10 @@
 
 <body>
 <div id="fb-root"></div>
-<? if($ieold): ?>
-	<p id="oldie">Pior do que você ouvir música do Latino, é você utilziar Internet Explorer <? preg_match('/msie 8/i',$_SERVER['HTTP_USER_AGENT']) ? print('8') : print('7');?>! Para sua alma ser salva, <a href="http://www.google.com/intl/pt-BR/chrome/browser/" target="_blank">baixe aqui algo descente para sua vida :D</a> #trollDev.</p>
-<? endif; ?>
+
 <header id="up-fixed" class="d-n" role="banner">
-	<h1><a href="./" class="logo _s va-m">FrontInSampa</a></h1>
+	
+    <a href="http://www.eventick.com.br/frontinsampa2013" class="bt-signup d-ib">INSCREVA-SE <i class="_s"></i></a>
 	<nav class="nav ta-c" role="navigation">
 		<ul>
 			<li class="eq1 link tt-u"><a href="#home">Home</a></li>
@@ -47,7 +46,6 @@
 			<li class="eq3 link tt-u"><a href="#palestrantes">Palestrantes</a></li>
 			<li class="eq4 link tt-u"><a href="#programacao">Programação</a></li>
 			<li class="eq5 link tt-u"><a href="#localizacao">Local</a></li>
-			<li class="eq6 link tt-u"><a href="#last-news">Blog</a></li>
 			<li class="eq7 link tt-u"><a href="#contato">Contato</a></li>
 		</ul>
 	</nav>

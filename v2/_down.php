@@ -1,24 +1,27 @@
 <div id="patrocina">
 	<h3 class="title-middle ta-c tt-u">Patrocinadores</h3>
-	<ul class="wrap">
-		<li class="d-ib"><img src="img/temp/lg1.jpg" height="89" width="340" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg2.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg3.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg4.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg2.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg1.jpg" height="89" width="340" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg2.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg3.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg4.jpg" height="89" width="180" alt=""></li>
-		<li class="d-ib"><img src="img/temp/lg2.jpg" height="89" width="180" alt=""></li>
+	<ul class="ta-c">
+		<li class="d-ib"><img src="img/temp/novatec.jpg" alt="Editora Novatec"></li>
+		<li class="d-ib"><img src="img/temp/caelum.jpg" alt="Caelum"></li>
+		
+	</ul>
+    
+</div>
+<div id="patrocina" class="apoio">
+	
+    <h3 class="title-middle ta-c tt-u">Apoio</h3>
+	<ul class="ta-c">
+		<li class="d-ib"><img src="img/temp/eventick.jpg" alt="Eventick apoia o Frontinsampa"></li>
+		<li class="d-ib"><img src="img/temp/webbr.jpg" alt="Evento Web Br W3C Brasil"></li>
+		
 	</ul>
 </div>
 <footer id="contato" role="contentinfo">
 	<div class="wrap">
 		<div class="seja ta-c d-ib">
 			<h4 class="title tt-u">Seja um patrocinador</h4>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry’s standard dummy.</p>
 			<a href="#" class="link tt-u d-b">Saiba mais, entre em contato</a>
+            <p>11 99491-9272 (Sergio/Elvis) <br /> 11 96454-2580 (Deivid Marques)</p>
 		</div>
 		<form class="contato d-ib va-t" action="" method="post">
 			<h4 class="title tt-u ta-c">Entre em contato</h4>
