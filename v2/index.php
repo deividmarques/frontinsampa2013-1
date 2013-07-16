@@ -101,7 +101,7 @@
 		</li>
 		<li class="thumb d-ib">
 			<a href="#">
-				<img src="img/temp/caio-gondim.jpg" height="245" width="245" alt="">
+				<img src="img/temp/caio-gondim.jpg" height="245" width="245" alt="Caio Gondim palestrante do frontinsampa">
 				<span class="info ta-c">
 					<span class="name tt-u">Caio Gondim</span>
 					<span class="work">Criador do Blog Loop Infinito</span>
@@ -110,7 +110,7 @@
 		</li>
 		<li class="thumb d-ib">
 			<a href="#">
-				<img src="img/temp/almir-filho.jpg" height="245" width="245" alt="">
+				<img src="img/temp/almir-filho.jpg" height="245" width="245" alt="Almir Filho palestrante do frontinsampa">
 				<span class="info ta-c">
 					<span class="name tt-u">Almir Filho</span>
 					<span class="work">Criador do Blog Loop Infinito</span>
@@ -119,14 +119,23 @@
 		</li>
 		<li class="thumb d-ib">
 			<a href="#">
-				<img src="img/temp/palestrante.jpg" height="245" width="245" alt="">
+				<img src="img/temp/camilo-coutinho.jpg" height="245" width="245" alt="Camilo Coutinho palestrante do frontinsampa">
 				<span class="info ta-c">
-					<span class="name tt-u">Palestrante</span>
-					<span class="work">Será selecionado pelo Call4papers</span>
+					<span class="name tt-u">Camilo Coutinho</span>
+					<span class="work">idea generator da Cajú Digital</span>
 				</span>
 			</a>
 		</li>
-		<li class="thumb d-ib">
+        <li class="thumb d-ib">
+			<a href="#">
+				<img src="img/temp/diego-bicudo.jpg" height="245" width="245" alt="Dhiego Bicudo apresentador do frontinsampa">
+				<span class="info ta-c">
+					<span class="name tt-u">Dhiego Bicudo</span>
+					<span class="work">Apresentará o evento</span>
+				</span>
+			</a>
+		</li>
+        <li class="thumb d-ib">
 			<a href="#">
 				<img src="img/temp/palestrante.jpg" height="245" width="245" alt="">
 				<span class="info ta-c">
@@ -135,6 +144,16 @@
 				</span>
 			</a>
 		</li>
+        <li class="thumb d-ib">
+			<a href="#">
+				<img src="img/temp/palestrante.jpg" height="245" width="245" alt="">
+				<span class="info ta-c">
+					<span class="name tt-u">Palestrante</span>
+					<span class="work">Será selecionado pelo Call4papers</span>
+				</span>
+			</a>
+		</li>
+        
 	</ul>
 </div>
 <div id="programacao">
@@ -149,11 +168,11 @@
 			</div>
 			<div class="text d-ib">
 				<div class="name">Reinaldo Ferraz</div>
-				<div class="description">Titulo da Palestra</div>
+				<div class="description">Especialista em desenvolvimento web no W3C Brasil</div>
 				<a href="#" class="ver-mais tt-u"><i class="_s"></i>Detalhes da palestra</a>
 				<div class="about d-n">
-					<i class="d-b trace"></i>
-					<p class="info">d dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+					<i class="d-b trace">Palestra: Pare de fazer acessibilidade from hell</i>
+					<p class="info">Falta enviar a descriçao.</p>
 					<div class="links">
 						<a href="https://twitter.com/reinaldoferraz" target="_blank"><i class="_s tw va-m">Twitter</i> @reinaldoferraz</a>
 						<a href="https://www.facebook.com/reinaldoferraz.00" target="_blank"><i class="_s fb va-m">Facebook</i> /reinaldoferraz.00</a>
@@ -185,7 +204,56 @@ Utilizaremos o Power Polygon, um projeto Open Source iniciado por mim, para exem
 				</div>
 			</div>
 		</li>
+		
 		<li class="list">
+			<div class="thumb d-ib va-t">
+				<div class="hour ta-c">00h00</div>
+				<div class="person">
+					<img src="img/temp/loop-infinito.jpg"  alt="Logo do Loop Infinito">
+				</div>
+			</div>
+			<div class="text d-ib">
+				<div class="name">Caio Gondim e Almir Filho</div>
+				<div class="description">Criadores do Blog Loop Infinito</div>
+				<a href="#" class="ver-mais tt-u"><i class="_s"></i>Detalhes da palestra</a>
+				<div class="about d-n">
+					<i class="d-b trace">Palestra: CSS Layout: o ontem, o hoje, e o depois</i>
+					<p class="info">
+                    Partindo do ontem com layouts em tabelas e passando pelo hoje com o box model, iremos explorar as limitações dessas abordagens para entender o que as novas técnicas do depois – flexbox, grids, regions e exclusions – vêm a solucionar</p>
+					<div class="links">
+						<a href="https://twitter.com/loopinfinito" target="_blank"><i class="_s tw va-m">Twitter</i> @loopinfinito</a>
+						<a href="https://www.facebook.com/l8pinfinito" target="_blank"><i class="_s fb va-m">Facebook</i> /l8pinfinito</a>
+					</div>
+				</div>
+			</div>
+		</li>
+        <li class="list">
+			<div class="thumb d-ib va-t">
+				<div class="hour ta-c">00h00</div>
+				<div class="person">
+					<img src="img/temp/camilo-coutinho.jpg" height="180" width="180" alt="Palestrante Camilo Coutinho">
+				</div>
+			</div>
+			<div class="text d-ib">
+				<div class="name">Camilo Coutinho</div>
+				<div class="description">Começou como designer e desenvolvedor. Passou por diversas implementações e madrugadas em deploy. Hoje é o idea generator da Cajú Digital, aonde busca levar melhores experiências para os consumidores de seus clientes. 
+                <br>
+                Já passou por grandes players do mercado como C&A, Submarino, Americanas, Shoptime e BuscaPé, além de trabalhar no grupo Newcomm com agências como Energy, Young & Rubicam e VML Brasil.
+                </div>
+				<a href="#" class="ver-mais tt-u"><i class="_s"></i>Detalhes da palestra</a>
+				<div class="about d-n">
+					<i class="d-b trace">Palestra: Motivação e Mercado</i>
+					<p class="info">
+                    Falta enviar detalhes da palestra
+                    </p>
+					<div class="links">
+						<a href="https://twitter.com/camilocoutinho" target="_blank" ><i class="_s tw va-m">Twitter</i> @camilocoutinho</a>
+						<a href="https://www.facebook.com/camilocoutinho" target="_blank"><i class="_s fb va-m">Facebook</i> /camilocoutinho</a>
+					</div>
+				</div>
+			</div>
+		</li>
+        <li class="list">
 			<div class="thumb d-ib va-t">
 				<div class="hour ta-c">00h00</div>
 				<div class="person">
@@ -194,7 +262,7 @@ Utilizaremos o Power Polygon, um projeto Open Source iniciado por mim, para exem
 			</div>
 			<div class="text d-ib">
 				<div class="name">Lea Verou</div>
-				<div class="description">Titulo da Palestra</div>
+				<div class="description">Descriçao do palestrante</div>
 				<a href="#" class="ver-mais tt-u"><i class="_s"></i>Detalhes da palestra</a>
 				<div class="about d-n">
 					<i class="d-b trace"></i>
@@ -202,27 +270,6 @@ Utilizaremos o Power Polygon, um projeto Open Source iniciado por mim, para exem
 					<div class="links">
 						<a href="https://twitter.com/leaverou" target="_blank"><i class="_s tw va-m">Twitter</i> @leaverou</a>
 						<a href="https://www.facebook.com/leaverou" target="_blank"><i class="_s fb va-m">Facebook</i> /leaverou</a>
-					</div>
-				</div>
-			</div>
-		</li>
-		<li class="list">
-			<div class="thumb d-ib va-t">
-				<div class="hour ta-c">00h00</div>
-				<div class="person">
-					<img src="img/temp/almir-caio.jpg" height="180" width="180" alt="">
-				</div>
-			</div>
-			<div class="text d-ib">
-				<div class="name">Caio Gondim e Almir Filho</div>
-				<div class="description">Criadores do Blog Loop Infinito</div>
-				<a href="#" class="ver-mais tt-u"><i class="_s"></i>Detalhes da palestra</a>
-				<div class="about d-n">
-					<i class="d-b trace"></i>
-					<p class="info"><strong>Lorem Ipsum is simply dummy text of the printing and typesetting industry</strong>. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
-					<div class="links">
-						<a href="#"><i class="_s tw va-m">Twitter</i> @reinaldoferraz</a>
-						<a href="#"><i class="_s fb va-m">Facebook</i> /reinaldoferraz.00</a>
 					</div>
 				</div>
 			</div>
@@ -236,7 +283,7 @@ Utilizaremos o Power Polygon, um projeto Open Source iniciado por mim, para exem
         Rua Augusta, 501 - (próximo ao metro Consolação)
 	</p>
     <div class="maps wrap d-b">
-    	<iframe width="1000" height="492" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=-23.5515232,+-46.65069790000001+(Frontinsampa+2013)&amp;hl=pt-BR&amp;ie=UTF8&amp;t=m&amp;ll=-23.551556,-46.650696&amp;spn=0.038711,0.085831&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?q=-23.5515232,+-46.65069790000001+(Frontinsampa+2013)&amp;hl=pt-BR&amp;ie=UTF8&amp;t=m&amp;ll=-23.551556,-46.650696&amp;spn=0.038711,0.085831&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left"></a></small>
+    	<iframe width="100%" height="455" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=-23.5515232,+-46.65069790000001+(Frontinsampa+2013)&amp;hl=pt-BR&amp;ie=UTF8&amp;t=m&amp;ll=-23.551556,-46.650696&amp;spn=0.038711,0.085831&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?q=-23.5515232,+-46.65069790000001+(Frontinsampa+2013)&amp;hl=pt-BR&amp;ie=UTF8&amp;t=m&amp;ll=-23.551556,-46.650696&amp;spn=0.038711,0.085831&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left"></a></small>
     
     </div>
 	

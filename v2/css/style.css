@@ -182,6 +182,7 @@ a:hover, a:focus{opacity:0.65;}
 	line-height: 80px;
 }
 #home .logo {
+	left:25px;
 	margin: 0 auto;
 	width: 316px;
 	height: 235px;
@@ -452,6 +453,8 @@ a:hover, a:focus{opacity:0.65;}
 	-o-transition: all ease-in-out .3s;
 	transition: all ease-in-out .3s;
 }
+#palestrantes .thumb a:hover,
+#palestrantes .thumb a:focus{opacity: 1;}
 #palestrantes .thumb a:hover .info,
 #palestrantes .thumb a:focus .info {
 	top: 0;
@@ -642,7 +645,7 @@ a:hover, a:focus{opacity:0.65;}
 	line-height: 29px;
 }
 #localizacao .maps {
-	width: 1092px;
+	width: 100%;
 	height: 455px;
 	margin-top: 40px;
 }
